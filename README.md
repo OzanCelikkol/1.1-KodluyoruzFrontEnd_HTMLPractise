@@ -1,2 +1,3 @@
-# 1.1-KodluyoruzFrontEnd_HTMLPractise
-Kodluyoruz Eğitimi kapsamında düzenlenen bölüm sonu çalışması
+# Kodluyoruz Front-End HTML Practise
+
+* In this practise we are creating a web page by using semantic elements we have learnt.
